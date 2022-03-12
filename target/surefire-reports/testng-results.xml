@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-12T22:01:53 IST" name="Suite" finished-at="2022-03-12T22:01:53 IST" duration-ms="66">
+    <groups>
+    </groups>
+    <test started-at="2022-03-12T22:01:53 IST" name="Test" finished-at="2022-03-12T22:01:53 IST" duration-ms="66">
+      <class name="in.selenium.sample.sampleproject.sample">
+        <test-method signature="testcase()[pri:0, instance:in.selenium.sample.sampleproject.sample@7133da86]" started-at="2022-03-12T22:01:53 IST" name="testcase" finished-at="2022-03-12T22:01:53 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- in.selenium.sample.sampleproject.sample -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

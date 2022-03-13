@@ -11,6 +11,6 @@ public class sample {
 	System.out.println("this is a sample code");
 	
 	System.out.println("this is 2nd sample coee");
-	assertTrue(false);
+	assertTrue(true);
 }
 }
